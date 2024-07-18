@@ -13,7 +13,7 @@
             <repositories>
                 <repository>
                     <id>github</id>
-                    <url>https://maven.pkg.github.com/harman-automotive/csp-central-repo</url>
+                    <url>https://maven.pkg.github.com/rajavpr/TestActions</url>
                     <snapshots>
                         <enabled>true</enabled>
                     </snapshots>
@@ -25,7 +25,7 @@
     <servers>
         <server>
             <id>github</id>
-            <username>${github.actor}</username>
+            <username>vpr.nkl05@gmail.com</username>
             <password>${env.GITHUB_TOKEN}</password>
         </server>
     </servers>
