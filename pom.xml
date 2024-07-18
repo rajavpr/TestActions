@@ -58,12 +58,12 @@
 <profiles>
     <profile>
       <id>github</id>
-     <!-- <activation>
+     <activation>
         <property>
           <name>useGitHubPackages</name>
           <value>true</value>
         </property>
-      </activation>-->
+      </activation>
       <distributionManagement>
         <repository>
           <id>github</id>
